@@ -1,5 +1,5 @@
 # url-shortening-service
-This is a simple URL shortening service.
+This is a very simple URL shortening service.
 
 It provides two api method:
 
